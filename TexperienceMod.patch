@@ -1,0 +1,16 @@
+Index: src/main/java/bcc.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/bcc.java	(date 1444686862000)
++++ src/main/java/bcc.java	(revision )
+@@ -108,7 +108,7 @@
+ 
+     public void a(fj var1, int var2) {
+         this.a(var1, var2, this.f.r.c(), false);
+-        LOGGER.info("[CHAT] " + var1.c());
++        LOGGER.info("[CHAT] " + var1.d());
+     }
+ 
+     private String b(String var1) {
