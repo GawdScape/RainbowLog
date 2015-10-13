@@ -1,0 +1,16 @@
+Index: src/main/java/avt.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/avt.java	(date 1444685019000)
++++ src/main/java/avt.java	(revision )
+@@ -101,7 +101,7 @@
+ 
+     public void a(eu var, int var1) {
+         this.a(var, var1, this.f.q.e(), false);
+-        a.info("[CHAT] " + var.c());
++        a.info("[CHAT] " + var.d());
+     }
+ 
+     private void a(eu var, int var1, int var2, boolean var3) {
