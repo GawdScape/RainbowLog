@@ -7,6 +7,9 @@ TexperienceMod
 
 
 `````````
+Select the branch that matches your Minecraft version for the source code.
+For legal reasons the source code for this mod is provided in patch format.
+
 This mod is copyright GawdScape.
 
 Minecraft is copyright Mojang.
