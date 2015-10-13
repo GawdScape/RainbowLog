@@ -1,0 +1,16 @@
+Index: src/main/java/buf.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/buf.java	(date 1444674743000)
++++ src/main/java/buf.java	(revision )
+@@ -101,7 +101,7 @@
+ 
+     public void a(hp var1, int var2) {
+         this.a(var1, var2, this.f.q.e(), false);
+-        a.info("[CHAT] " + var1.c());
++        a.info("[CHAT] " + var1.d());
+     }
+ 
+     private void a(hp var1, int var2, int var3, boolean var4) {
