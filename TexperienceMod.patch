@@ -1,0 +1,16 @@
+Index: src/main/java/bcy.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/bcy.java	(date 1464948335000)
++++ src/main/java/bcy.java	(revision )
+@@ -106,7 +106,7 @@
+ 
+     public void a(ew var, int var1) {
+         this.a(var, var1, this.h.r.e(), false);
+-        g.info("[CHAT] " + f.join(a.split(var.c())));
++        g.info("[CHAT] " + f.join(a.split(var.d())));
+     }
+ 
+     private void a(ew var, int var1, int var2, boolean var3) {
