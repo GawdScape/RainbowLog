@@ -1,0 +1,16 @@
+Index: src/main/java/bcx.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/bcx.java	(date 1464945954000)
++++ src/main/java/bcx.java	(revision )
+@@ -105,7 +105,7 @@
+ 
+     public void a(eu var, int var1) {
+         this.a(var, var1, this.h.r.e(), false);
+-        g.info("[CHAT] " + f.join(a.split(var.c())));
++        g.info("[CHAT] " + f.join(a.split(var.d())));
+     }
+ 
+     private void a(eu var, int var1, int var2, boolean var3) {
