@@ -1,0 +1,16 @@
+Index: src/main/java/bfl.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/bfl.java	(date 1479635358000)
++++ src/main/java/bfl.java	(revision )
+@@ -109,7 +109,7 @@
+ 
+     public void a(fb var1, int var2) {
+         this.a(var1, var2, this.h.r.e(), false);
+-        g.info("[CHAT] {}", new Object[]{f.join(a.split(var1.c()))});
++        g.info("[CHAT] {}", new Object[]{f.join(a.split(var1.d()))});
+     }
+ 
+     private void a(fb var1, int var2, int var3, boolean var4) {
